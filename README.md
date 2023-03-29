@@ -10,7 +10,7 @@
 		</tr>
 		<tr>
 			<a href="https://github.com/maria0597">
-				<img src="">
+				<img src="https://badge42.vercel.app/api/v2/clftwj9c4000608l2h98nszsf/stats?cursusId=21&coalitionId=125">
 			</a>
 		</tr>
 	</table>
