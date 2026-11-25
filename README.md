@@ -13,7 +13,7 @@ Most of the older repositories here are from my 42 journey (C, C++, Unix, and sy
 
 **Offline**
 - 🤿 Scuba diver exploring Mediterranean geology from below the surface 🌊
-- 📫 Reach me at `ardolino.2159316@estudenti.uniroma1.it` 
+- 📫 Reach me at `ardolino.2159316@studenti.uniroma1.it` 
 
 ---
 
